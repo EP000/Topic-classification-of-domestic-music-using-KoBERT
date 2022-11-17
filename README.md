@@ -7,6 +7,15 @@
 Ubuntu 20.04  
 python 3.8.10
 
+### 패키지
+```
+pip3 install torch==1.7.0
+pip3 install transformers==4.8.1
+pip3 install mxnet==1.6.0
+pip3 install gluonnlp==0.10.0
+```
+
+
 ### 학회
 2021 한국컴퓨터종합학술대회 (KCC2021)
 [논문 링크](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10583421)
