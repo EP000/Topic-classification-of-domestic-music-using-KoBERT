@@ -13,6 +13,8 @@ pip3 install torch==1.7.0
 pip3 install transformers==4.8.1
 pip3 install mxnet==1.6.0
 pip3 install gluonnlp==0.10.0
+pip3 install pandas 
+pip install git+https://git@github.com/SKTBrain/KoBERT.git@master
 ```
 
 
